@@ -1,7 +1,30 @@
-# Python Memory & Data Types Study
+# 🐍 Python Mastery: Week 1 – Day 1
+### Python Memory & Data Types Study
 
 - **Reference-Based Assignment:** Learned that Python variables are just labels (references) pointing to objects in the heap.
 - **Memory Visualization:** Visualized how `x = 10` creates an object at a memory address (e.g., `0x1001`) while `x` acts as the pointer.
 - **Immutability (Integers/Strings):** Reassigning `y = 11` doesn't change `x`; it creates a brand new object because these types can't be modified in place.
 - **Mutability (Lists):** Demonstrated that `y = x` shares a reference, meaning modifying `y` directly affects `x` unless a copy is made.
 - **Cloning Techniques:** Practiced the difference between **assignment** (reference) vs. **slicing** (`[:]`) and `.copy()` to safely duplicate data.
+
+
+# 🐍 Python Mastery: Week 1 – Day 2
+### Focus: Functions, *args, **kwargs & Scope
+
+*   **Deep Dive:** Mastering function logic, default parameters, and return values.
+*   **Flexibility:** Implementing `*args` for tuples and `**kwargs` for dictionary arguments.
+*   **Precision:** Navigating the **LEGB** rule and managing variable scope boundaries.
+*   **Clean Code:** Learning to structure reusable blocks and maintain global/local hygiene.
+
+---
+
+# 🐍 Python Mastery: Week 1 – Day 3
+### Focus: OOP Basics (Classes & Objects)
+
+*   **Blueprints:** Defining **Classes** to model real-world entities and logic.
+*   **Instances:** Creating **Objects** and managing unique data via the `__init__` method.
+*   **State & Behavior:** Mastering **Attributes** (variables) and **Methods** (functions).
+*   **Self-Discovery:** Understanding the `self` keyword to track specific instance data.
+
+---
+
