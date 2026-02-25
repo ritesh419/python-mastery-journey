@@ -43,7 +43,11 @@ class Employee:
 
     def __init__(self, name):
         self.name = name
- 
+    
+    def indentity(self):
+        print(f"{self.name}'s object id is {id(self)}")
+
+
 emp1 = Employee("Ritesh")
 emp2 = Employee("Ayush")
 
@@ -62,3 +66,8 @@ print("*" * 50)
 emp1.company = "Meta"
 
 print(f"{emp1.name} --> {emp1.company} , {emp2.name} --> {emp2.company}")
+
+
+# Task 3 – Print id(self)
+emp1.indentity()
+emp2.indentity()
