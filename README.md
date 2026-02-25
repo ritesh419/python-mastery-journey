@@ -7,6 +7,7 @@
 - **Mutability (Lists):** Demonstrated that `y = x` shares a reference, meaning modifying `y` directly affects `x` unless a copy is made.
 - **Cloning Techniques:** Practiced the difference between **assignment** (reference) vs. **slicing** (`[:]`) and `.copy()` to safely duplicate data.
 
+---
 
 # 🐍 Python Mastery: Week 1 – Day 2
 ### Focus: Functions, *args, **kwargs & Scope
