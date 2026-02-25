@@ -22,10 +22,10 @@ def create_user(name, age, **kwargs):
     profile.update(kwargs)
     return profile
 
-# name = "Ritesh"
-# age = 22
-# user = {"id": 1, "email": "abc@gmail.com"}
-# print(create_user(name, age, **user))
+name = "Ritesh"
+age = 22
+user = {"id": 1, "email": "abc@gmail.com"}
+print(create_user(name, age, **user))
 
 
 # Task 3 – Scope Experiment
