@@ -29,3 +29,25 @@
 
 ---
 
+# 🐍 Python Mastery: Week 1 – Day 4
+### Focus: Advanced OOP & Inheritance Logic
+
+*   **Inheritance:** Understanding the "Is-A" relationship to build scalable class hierarchies.
+*   **Method Overriding:** Learning how (and when) to redefine parent behaviors in child classes.
+*   **The `super()` Power:** Using the `super()` function to extend parent logic without rewriting it.
+*   **Data Protection:** Deep dive into **Name Mangling** (`__private`) and how Python protects internal attributes.
+*   **Python Magic:** Mastering **Dunder Methods** (`__str__`, `__repr__`, `__add__`) to make custom objects behave like built-ins.
+
+---
+
+# 🐍 Python Mastery: Week 1 – Day 5
+### Focus: Error Handling, Modularity & Entry Points
+
+*   **Robust Logic:** Mastering `try`, `except`, `else`, and `finally` to prevent program crashes.
+*   **Custom Signaling:** Learning to `raise` built-in and custom exceptions for business rules.
+*   **Modular Architecture:** Organizing code into **Modules** and **Packages** for better reusability.
+*   **Execution Control:** Understanding why `if __name__ == "__main__":` is critical for script safety.
+
+---
+
+
