@@ -39,3 +39,7 @@ def divide(*args):
         return result
     except ZeroDivisionError as e:
         return f"Error occured: {e}"
+
+if __name__ == "__main__":
+    print("--- Running Calculator Directly (Test Mode) ---")
+    print(f"Test Add: {add(10, 20)}")
