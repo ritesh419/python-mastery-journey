@@ -1,3 +1,4 @@
+# 🧠 Problem 1 – Reverse a String (No slicing)
 def reverse_string(s):      # building new str
     emp_str = "" 
     for char in s:
