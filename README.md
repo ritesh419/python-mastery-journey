@@ -50,4 +50,15 @@
 
 ---
 
+# 🧩 Python Mastery: Week 1 – Day 6
+### Focus: Logic Building & Algorithm Challenges
+
+*   **String Manipulation:** Reversing strings manually and building robust **Palindrome** checkers that handle spaces/cases.
+*   **Data Counting:** Using dictionaries to map **Character Frequency** (The "Counter" logic).
+*   **Array Logic:** Navigating lists to find the **Second Largest** value without using `sort()` or `max()`.
+*   **Classic Interview Logic:** Solving the **FizzBuzz** challenge (1 to 50) using modulo operators.
+*   **Set Theory & Order:** Filtering out **Duplicates** while keeping the original sequence intact.
+*   **Sorting & Comparison:** Validating **Anagrams** by comparing character distributions.
+
+---
 
