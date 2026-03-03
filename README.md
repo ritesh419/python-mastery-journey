@@ -62,3 +62,16 @@
 
 ---
 
+# 📝 Python Mastery: Week 1 – Day 7
+### Final Project: CLI Task Manager
+
+*   **The Mission:** Build a functional, interactive **Command Line Interface (CLI)** application to manage daily tasks.
+*   **Data Persistence:** Using **Lists** to store, track, and update user data in real-time.
+*   **User Interaction:** Implementing a **Main Loop** that keeps the program running until the user chooses to exit.
+*   **Safety First:** Applying **Error Handling** (`try/except`) to manage invalid list indices or non-numeric inputs.
+*   **Clean Output:** Formatting data into **Numbered Lists** for a professional user experience.
+
+---
+🎯 *"The best way to learn a language is to build something with it."*
+
+
