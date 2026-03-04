@@ -74,4 +74,15 @@
 ---
 🎯 *"The best way to learn a language is to build something with it."*
 
+# 🚀 Python Mastery: Week 2 – DSA Foundation
+### Focus: Data Structures, Algorithms & Time Complexity
+
+*   **Daily Consistency:** Solving **3–4 problems per day** focusing on Arrays, Strings, and Dictionaries.
+*   **Algorithmic Efficiency:** Mastering **Big O Notation** to measure and optimize Time and Space Complexity.
+*   **Data Structures:** Deep dive into **Lists (Arrays)**, **Hash Maps (Dictionaries)**, and **Sets** for optimal data retrieval.
+*   **Version Control:** Daily commits to **GitHub** to track progress and document solution logic.
+*   **The Weekend Sprint:** Tackling a **10-problem marathon** to reinforce pattern recognition across different problem types.
+
+---
+⚡ *"First, solve the problem. Then, write the code." – John Johnson*
 
